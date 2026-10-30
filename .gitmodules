@@ -1,0 +1,20 @@
+[submodule "poky/meta-raspberrypi"]
+	path = poky/meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi.git
+	branch = scarthgap
+[submodule "poky/meta-virtualization"]
+	path = poky/meta-virtualization
+	url = https://git.yoctoproject.org/meta-virtualization
+	branch = scarthgap
+[submodule "poky/meta-openembedded"]
+	path = poky/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded
+	branch = scarthgap
+[submodule "poky/meta-lts-mixins"]
+	path = poky/meta-lts-mixins
+	url = https://git.yoctoproject.org/meta-lts-mixins
+	branch = scarthgap/u-boot
+[submodule "poky/meta-myhlu-robot"]
+	path = poky/meta-myhlu-robot
+	url = https://github.com/MykolaHlushchenko/meta-myhlu-robot.git
+	branch = scarthgap
