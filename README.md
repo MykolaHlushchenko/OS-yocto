@@ -5,7 +5,7 @@ This repository contains a custom operating system built using the **Yocto Proje
 ## 🚀 Releases & Pre-built Images
 
 The production-ready release image of the operating system is available for download in the **Releases** section.
-* Download the latest build: **[OS-yocto Release 1.0](https://github.com)**
+* Download the latest build: **[OS-yocto Release 1.0](https://github.com/MykolaHlushchenko/OS-yocto/releases/tag/v1.0)**
 
 ---
 
